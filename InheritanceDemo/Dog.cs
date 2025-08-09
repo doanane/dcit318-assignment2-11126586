@@ -1,0 +1,12 @@
+using System;
+
+namespace InheritanceDemo
+{
+    public class Dog : Animal
+    {
+        public override void MakeSound()
+        {
+            Console.WriteLine("Bark");
+        }
+    }
+}
