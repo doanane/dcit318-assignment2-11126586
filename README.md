@@ -6,7 +6,7 @@ Three small console apps demonstrating:
 3. Interfaces
 
 ## Run
-dotnet run --project src/InheritanceDemo
-dotnet run --project src/AbstractDemo
-dotnet run --project src/InterfacesDemo
+dotnet run --project InheritanceDemo
+dotnet run --project AbstractDemo
+dotnet run --project InterfacesDemo
 "# dcit318-assignment2-11126586" 
