@@ -1,4 +1,4 @@
-// Task 1: Inheritance and method overriding example (Animal, Dog, Cat)
+// Abstract classes and methods example (Shape, Circle, Rectangle)
 ﻿using System;
 
 
